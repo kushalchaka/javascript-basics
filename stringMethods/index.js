@@ -1,4 +1,4 @@
-let username = " Chiefyoshi";
+let username = " ChiefYoshi";
 
 console.log(username);
 console.log(username.charAt(2));
