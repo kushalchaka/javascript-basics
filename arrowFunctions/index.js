@@ -1,5 +1,5 @@
 const hello = (name, age) => {console.log(`Hello ${name}`)
-                        console.log(`You are ${age} years old`)};
+                        console.log(`You are ${age} years old.`)};
 
 hello("Yoshi", 1);
 
