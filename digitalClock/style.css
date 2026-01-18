@@ -1,0 +1,25 @@
+body{
+    background-image: url(citynight.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+}
+
+#clockContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#clock {
+    font-family: cursive;
+    font-size: 6.5rem;
+    text-align: center;
+    color: aliceblue;
+    backdrop-filter: blur(2px);
+    background-color: hsl(0, 0%, 100%, 0.1);
+    width: 100%;
+}
